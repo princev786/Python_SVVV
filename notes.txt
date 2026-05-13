@@ -1,0 +1,32 @@
+Function : 
+
+Syntax :
+def <func-Name>(<list of arguments):
+    #body
+
+Variations :
+    No return No argument 
+    No return with argument
+    with return no argument
+    with return with argument
+
+Strings :
+immutable sequence of characters
+
+s = "hello" , length = len(s) #5
+h->0 ,-5 
+e->1 ,-4
+l->2, -3
+l->3, -2
+o->4 , -1
+
+int[] arr 
+
+1001 1005 1009 1013 1017
+
+base addr + offset*size_of_1_value = newaddr
+1001 + 0*4=1001
+
+Slicing of the STring :
+s="hello"
+s[2:5]="llo"
